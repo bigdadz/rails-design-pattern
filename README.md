@@ -1,24 +1,9 @@
-# README
+# 7 Design Patterns to Refactor MVC Components in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Service Objects (and Interactor Objects)
+2. Value Objects
+3. Form Objects
+4. Query Objects
+5. View Objects (Serializer/Presenter)
+6. Policy Objects
+7. Decorators
